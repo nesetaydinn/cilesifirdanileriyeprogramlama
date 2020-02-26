@@ -89,5 +89,12 @@ scanf();
 
 Tam Sayinin tututldugu adres    6422272
 Tam Sayinin     10
+35
+Tam Sayinin tututldugu adres    6422272
+Tam Sayinin     35
+
+Process returned 0 (0x0)   execution time : 2.185 s
+Press any key to continue.
+
 
 */
