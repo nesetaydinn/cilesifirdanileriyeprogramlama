@@ -1,7 +1,7 @@
 /**<
 *charDegiskenTipi.c
-*Bu program C dilinde kullanılan Char Veri Tiplerinin
-*Alt ve Üst Sınırlarını Konsola Bastırır.
+*bayt bilgisini konsola bastırır ve
+*programda basit uygulamaları vardır.
 *@authr Neşet Aydın
 *21.03.2020
 *Bu Program ders 5.1.2 için yazılan programın son halidir.
