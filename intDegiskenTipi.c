@@ -5,8 +5,8 @@
 *programda basit uygulamaları vardır.
 *@authr Neşet Aydın
 *21.03.2020
-*Bu Program ders 5.1.2 için yazılan programın son halidir.
-*Videoya linkten ulaşabilirsiniz: //link gelecek
+*Bu Program ders 5.1.3 için yazılan programın son halidir.
+*Videoya linkten ulaşabilirsiniz: //https://youtu.be/V8v1DGRN_do
 */
 
 #include "stdio.h"
