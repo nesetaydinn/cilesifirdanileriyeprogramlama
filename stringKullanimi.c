@@ -1,3 +1,13 @@
+/**<
+*stringKullanimi.c
+*Bu program C dilinde kullanılan char Veri Tipi ile birlikte
+*string ifadelerde ki kullanımı gösterir.
+*@authr Neşet Aydın
+*27.03.2020
+*Bu Program ders 5.1.5 için yazılan programın son halidir.
+*Videoya linkten ulaşabilirsiniz: //link
+*/
+
 #include "stdio.h"
 
 int main(){
