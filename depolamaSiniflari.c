@@ -5,7 +5,7 @@
 *@authr Neşet Aydın
 *31.03.2020
 *Bu Program ders 5.1.9 için yazılan programın son halidir.
-*Videoya linkten ulaşabilirsiniz: //link
+*Videoya linkten ulaşabilirsiniz: //https://youtu.be/1OMXdB-NUA4
 */
 #include "stdio.h"
 int test1(){
