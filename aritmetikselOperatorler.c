@@ -1,6 +1,6 @@
 /**<
-*aritmatikselOperatorler.c
-*Bu program C dilinde aritmatiksel operatörleri 
+*aritmetikselOperatorler.c
+*Bu program C dilinde aritmetiksel operatörleri 
 *anlattığımız derste yazılan kodların son halidir.
 *@authr Neşet Aydın
 *2.04.2020
@@ -10,7 +10,7 @@
 
 #include "stdio.h"
 
-/*Aritmatiksel operatörler;
+/*Aritmetiksel operatörler;
 + toplamayı
 - çıkarmayı
 * çarmayı
