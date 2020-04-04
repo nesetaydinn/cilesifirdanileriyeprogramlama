@@ -5,7 +5,7 @@
 *@authr Neşet Aydın
 *4.04.2020
 *Bu Program ders 5.3.2 için yazılan programın son halidir.
-*Videoya linkten ulaşabilirsiniz: //link
+*Videoya linkten ulaşabilirsiniz: //https://youtu.be/m-MhysOR4oo
 */
 
 #include "stdio.h"
