@@ -5,7 +5,7 @@
 *@authr Neşet Aydın
 *10.04.2020
 *Bu Program ders 5.3.4 için yazılan programın son halidir.
-*Videoya linkten ulaşabilirsiniz: //link
+*Videoya linkten ulaşabilirsiniz: //https://youtu.be/xDKezgGvTsE
 */
 #include <stdio.h>
 /*
