@@ -6,7 +6,7 @@
 *@authr Neşet Aydın
 *21.04.2020
 *Bu Program ders 5.3.6 için yazılan programın son halidir.
-*Videoya linkten ulaşabilirsiniz: //link
+*Videoya linkten ulaşabilirsiniz: //https://youtu.be/0hkvMig_HJE
 */
 #include <stdio.h>
 
