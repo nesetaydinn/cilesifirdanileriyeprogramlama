@@ -5,7 +5,7 @@
 *@authr Neşet Aydın
 *28.04.2020
 *Bu Program ders 5.3.8 için yazılan programın son halidir.
-*Videoya linkten ulaşabilirsiniz: //
+*Videoya linkten ulaşabilirsiniz: //https://youtu.be/ea9LWSVuAbk
 */
 #include "stdio.h"
 #include "math.h"
