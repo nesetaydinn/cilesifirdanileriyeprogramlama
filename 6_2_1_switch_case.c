@@ -1,11 +1,11 @@
 /**<
-*6_2_switch_case.c
+*6_2_1_switch_case.c
 *Bu program C dilinde: Program denetim deyimlerinden switch-case 
 *kullanımını anlattığımız
 *derste yazılan programdır.
 *@authr Neşet Aydın
 17.05.2020
-*Bu Program ders 6.2 için yazılan programın son halidir.
+*Bu Program ders 6.2.1 için yazılan programın son halidir.
 *Videoya linkten ulaşabilirsiniz: //
 */
 #include <stdio.h>
