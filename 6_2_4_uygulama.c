@@ -6,7 +6,7 @@
 *@authr Neşet Aydın
 17.05.2020
 *Bu Program uygulama 6.2.4 için yazılan programın son halidir.
-*Videoya linkten ulaşabilirsiniz: //
+*Videoya linkten ulaşabilirsiniz: //https://youtu.be/X8tm1K8vHsc
 */
 #include <stdio.h>
 double ilkD,ikinciD;
