@@ -6,7 +6,7 @@
 *@authr Neşet Aydın
 17.05.2020
 *Bu Program ders 6.2.1 için yazılan programın son halidir.
-*Videoya linkten ulaşabilirsiniz: //
+*Videoya linkten ulaşabilirsiniz: //https://youtu.be/fCvHgUkJLFc
 */
 #include <stdio.h>
 
