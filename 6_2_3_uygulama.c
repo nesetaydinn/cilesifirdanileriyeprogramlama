@@ -5,7 +5,7 @@
 *@authr Neşet Aydın
 17.05.2020
 *Bu Program uygulama 6.2.3 için yazılan programın son halidir.
-*Videoya linkten ulaşabilirsiniz: //
+*Videoya linkten ulaşabilirsiniz: //https://youtu.be/s6bHC9YSWF0
 */
 /*Soru: Programın çıktısı ne olur?*/
 #include <stdio.h>
