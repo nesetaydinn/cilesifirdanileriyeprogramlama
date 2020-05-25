@@ -1,11 +1,11 @@
 /**<
 *6_4_1_uygulama.c
 *Bu program C dilinde: Bir id değeri alır ve eğer doğru id girildiyse
-*İsmi ile birlikte Hoş geldiniz yazısını konsala bastırır. 
+*İsmi ile birlikte Hoş geldiniz yazısını konsola bastırır. 
 *@authr Neşet Aydın
 25.05.2020
 *Bu Program uygulama 6.4.1 için yazılan programın son halidir.
-*Videoya linkten ulaşabilirsiniz: //
+*Videoya linkten ulaşabilirsiniz: //https://youtu.be/K0aKxd7UNe4
 */
 #include <stdio.h>
 #include "stdlib.h"
