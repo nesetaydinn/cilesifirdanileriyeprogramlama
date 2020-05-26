@@ -4,7 +4,7 @@
 *@authr Neşet Aydın
 26.05.2020
 *Bu Program uygulama 6.5.1 için yazılan programın son halidir.
-*Videoya linkten ulaşabilirsiniz: //
+*Videoya linkten ulaşabilirsiniz: //https://youtu.be/m408u6J08nY
 */
 #include "stdio.h"
 
