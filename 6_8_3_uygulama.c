@@ -5,7 +5,7 @@
 *@authr Neşet Aydın
 28.05.2020
 *Bu Program uygulama 6.8.3 için yazılan programın son halidir.
-*Videoya linkten ulaşabilirsiniz: //
+*Videoya linkten ulaşabilirsiniz: //https://youtu.be/-7zGMrBpSTU
 */
 #include <stdio.h>
 /**
