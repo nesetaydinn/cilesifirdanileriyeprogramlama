@@ -7,7 +7,7 @@
 *@authr Neşet Aydın
 19.06.2020
 *Bu Program uygulama 6.9 için yazılan programın son halidir.
-*Videoya linkten ulaşabilirsiniz: 
+*Videoya linkten ulaşabilirsiniz: https://youtu.be/PtkJ1s3UG0U
 */
 #include <stdio.h>
 #include <stdlib.h>
