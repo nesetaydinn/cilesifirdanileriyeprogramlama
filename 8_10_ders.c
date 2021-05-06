@@ -5,8 +5,7 @@
 *@authr Neşet Aydın
 *02.05.2021
 *Bu Program uygulama 8.10 için yazılan programın son halidir.
-*Algoritmanın dans olarak anlatıldığı video: 
-*Videoya linkten ulaşabilirsiniz: 
+*Videoya linkten ulaşabilirsiniz: https://youtu.be/Uw9CxcXK1Fg
 */
 #include <stdio.h>
 #include <stdlib.h>
