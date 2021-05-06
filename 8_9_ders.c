@@ -6,7 +6,6 @@
 *@authr Neşet Aydın
 *22.04.2021
 *Bu Program uygulama 8.9 için yazılan programın son halidir.
-*Algoritmanın dans olarak anlatıldığı video: 
 *Videoya linkten ulaşabilirsiniz: https://youtu.be/DYuQxdGwBcs
 */
 #include <stdio.h>
