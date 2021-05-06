@@ -5,7 +5,6 @@ küçükten büyüğe sıralıyan fonksiyonun yazılasını içerir.
 *@authr Neşet Aydın
 *08.02.2021
 *Bu Program uygulama 8.6 için yazılan programın son halidir.
-*Algoritmanın dans olarak anlatıldığı video: 
 *Videoya linkten ulaşabilirsiniz: https://youtu.be/ODHpOLYZbUY
 */
 #include <stdio.h>
