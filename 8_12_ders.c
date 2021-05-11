@@ -5,7 +5,7 @@
 *@authr Neşet Aydın
 *11.05.2021
 *Bu Program uygulama 8.12 için yazılan programın son halidir.
-*Videoya linkten ulaşabilirsiniz:
+*Videoya linkten ulaşabilirsiniz: https://youtu.be/3g6__BSBQ_Q
 */
 #include <stdio.h>
 #include <stdlib.h>
